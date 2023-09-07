@@ -1,0 +1,64 @@
+body
+{
+}
+
+form
+{
+    margin: 0 auto;
+    width: 400px;
+    height: 250px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(212, 105, 105);
+}
+.title
+{
+    color: white;
+    text-align: center;
+}
+.user
+{
+    text-align: center;
+    padding-top: 5%;
+}
+.label1
+{
+    font-size: 20px;
+}
+.input1
+{
+    padding-left: 10%;
+    height:20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.password
+{
+    text-align: center;
+    padding-top: 1%;
+}
+.label2
+{
+    font-size: 20px;
+}
+.input2
+{
+    padding-left: 10%;
+    height:20px;
+    border-radius: 8px;
+    border: none;
+}
+
+.btn
+{
+    text-align: center;
+}
+.loginBtn
+{
+    font-size: 20px;
+    border-radius: 10px;
+    border: none;
+    align-content: center;
+    text-align: center;   
+}
